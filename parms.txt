@@ -1,0 +1,5 @@
+DBName:testdb
+DBPassword:beefandcheese2
+DBRootPassword:beefandcheese2
+DBUser:test
+KeyName:us-west
